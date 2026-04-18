@@ -14,5 +14,3 @@
 ### Full Stack Projects
 
 
-
-
