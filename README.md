@@ -55,3 +55,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo43&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+## 📈 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Attahrocks?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Attahrocks/)
+
+</div>
