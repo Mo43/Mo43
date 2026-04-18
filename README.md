@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# Mohammed Batliwala
+# Hi, I'm Mo 👋
 
 ### Junior Developer · CS Graduate
 
