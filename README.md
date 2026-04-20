@@ -61,5 +61,5 @@
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Attahrocks?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Attahrocks/)
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mo43)
 </div>
