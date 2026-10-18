@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Mo 👋
+# Hi, I'm Mo!
 
 ### Junior Developer · CS Graduate
 
