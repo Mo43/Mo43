@@ -45,21 +45,3 @@
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo43&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo43&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📈 LeetCode
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Attahrocks?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Attahrocks/)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mo43)
-</div>
